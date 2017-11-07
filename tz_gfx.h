@@ -7,6 +7,9 @@
  * (http://floooh.github.io/2017/07/29/sokol-gfx-tour.html), with additional features
  * such as command buffers for parallel draw call submission, even for synchronous
  * APIs.
+ *
+ * Dependencies:
+ *    - tz_pool.h
  */
 
 #ifndef TZ_GFX_H
