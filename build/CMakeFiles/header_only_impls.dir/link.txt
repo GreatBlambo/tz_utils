@@ -1,0 +1,2 @@
+/usr/bin/ar qc libheader_only_impls.a  CMakeFiles/header_only_impls.dir/thirdparty/header_only_impls.c.o
+/usr/bin/ranlib libheader_only_impls.a

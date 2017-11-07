@@ -1,0 +1,4 @@
+-Ithirdparty/glad/include
+-Ithirdparty/glfw/include
+-Ithirdparty
+-Iinclude

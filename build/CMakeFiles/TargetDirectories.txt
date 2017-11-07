@@ -1,0 +1,13 @@
+/home/ray/projects/tz_utils/build/CMakeFiles/edit_cache.dir
+/home/ray/projects/tz_utils/build/CMakeFiles/tz_utils.dir
+/home/ray/projects/tz_utils/build/CMakeFiles/rebuild_cache.dir
+/home/ray/projects/tz_utils/build/CMakeFiles/glad.dir
+/home/ray/projects/tz_utils/build/CMakeFiles/header_only_impls.dir
+/home/ray/projects/tz_utils/build/thirdparty/glfw/CMakeFiles/edit_cache.dir
+/home/ray/projects/tz_utils/build/thirdparty/glfw/CMakeFiles/rebuild_cache.dir
+/home/ray/projects/tz_utils/build/thirdparty/glfw/src/CMakeFiles/rebuild_cache.dir
+/home/ray/projects/tz_utils/build/thirdparty/glfw/src/CMakeFiles/edit_cache.dir
+/home/ray/projects/tz_utils/build/thirdparty/glfw/src/CMakeFiles/glfw.dir
+/home/ray/projects/tz_utils/build/tests/CMakeFiles/rebuild_cache.dir
+/home/ray/projects/tz_utils/build/tests/CMakeFiles/edit_cache.dir
+/home/ray/projects/tz_utils/build/tests/CMakeFiles/tz_gfx_test.dir

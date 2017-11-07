@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtz_utils.a  CMakeFiles/tz_utils.dir/tz_gfx_internal.c.o CMakeFiles/tz_utils.dir/tz_gfx_gl_impl.c.o
+/usr/bin/ranlib libtz_utils.a

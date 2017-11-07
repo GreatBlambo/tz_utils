@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/tz_gfx_test.dir/tz_gfx_test.c.o  -o tz_gfx_test -rdynamic -lGLU -lGL ../thirdparty/glfw/src/libglfw3.a ../libglad.a ../libheader_only_impls.a -lrt -lm -ldl -lX11 -lpthread -lXrandr -lXinerama -lXcursor 
